@@ -1,239 +1,112 @@
-local _0x6887bb94=675967
-local _0x2468f549=739337
-local _0xca6ba2d9=728465
-local _0xc65b7c46=543113
-local _0x51852ce6=321310
-local _0x734163ce=564019
-local _0xef34bab8=519616
-local _0x45712667=360847
-local _0x424cddfa=765751
-local _0x83dbb33e=885333
-local _0xd7299753=944678
-local _0xabbe98fa=356322
-local _0xc7f995b0=681225
-local _0x2be30871=479450
-local _0xe84cd1fe=395743
-local _0x8478cbf6=33440
-local _0x0fa94764=979902
-local _0xfcf33287=274910
-local _0x57cc59d4=631144
-local _0x21745567=244168
-local _0x88ae1579=549575
-local _0xed197e94=277497
-local _0x0b1fde56=562446
-local _0xb4177dd0=979684
-local _0x50430ec5=223621
-local _0xb8ba53eb=122966
-local _0xbb104e11=143225
-local _0x5164d69e=756725
-local _0x3f606525=58132
-local _0x5cb7ced1=831980
-local _0xec892f50=68156
-local _0x13bcfb49=637058
-local _0xda79e38a=921405
-local _0x5b9b60a2=684990
-local _0xe19f226a=846354
-local _0x89e70fce=140837
-local _0x63102513=935244
-local _0xe3031502=326418
-local _0x8db81f28=429255
-local _0x0288c4d7=54016
-local _0x31452bdf=208814
-local _0xb56c5352=462133
-local _0xd8f13d2a=938854
-local _0xe2bda072=463799
-local _0x3d7ecb69=993430
-local _0xe3357c1e=64867
-local _0xce9a39db=501395
-local _0xebf04f15=937586
-local _0x6b6a3877=113479
-local _0x51ac8534=833219
-local _0x5fdbfa6e="hh2BBWb"
-local _0x10a2018d="32cI8625erRLFV"
-local _0x0e74cc4d="4APyJY"
-local _0xbbadab22="WWGeA6E"
-local _0x99e21f10="TfaXh"
-local _0x50cd6a47="z6nU5Y2Ce1FUd"
-local _0x29748831="oEFi0bo83xRmbGb"
-local _0x50900889="ST4Z4euzJlYQB1"
-local _0xa0f5f3b2="WdU8JqziOk1Nbt"
-local _0x38c77d94="Hd3k0U4rl1QoPYg"
-local _0x3e7be179="YJi5O"
-local _0xd6fae86e="hfD9kR165"
-local _0xf7cb0a61="Rl21kxi"
-local _0x52c89a7c="7GBBw0uTq"
-local _0xeaf4780e="bRivMW"
-local _0x96a78564="eWDJdqf"
-local _0xc5481508="tGIvI9cy3ZjjA0"
-local _0x95bd8355="mADDY6buK9X2D3i"
-local _0x0f3ff90e="S3wtO9rFGD"
-local _0x8be7f11a="jcs6J"
-local _0xea5f728d="uLwjM"
-local _0xcbb9683c="o0yWdTbd"
-local _0xecd3f62b="Uf0pMjrBoudZW"
-local _0x6f54bdae="tvdMhD673AE"
-local _0x6c5eef8c="T83QaGb7"
-local _0x0a71f0fa="LUQfVvPzpqH"
-local _0xaaa12b53="vGqJW"
-local _0x6d25c9f2="rzgxCqTJYAum3"
-local _0xcad9211c="Q4BDUw2vpX54U"
-local _0xcf79ced2="Qd1s4GZ"
-local function _0xa535c96f(...)
-  return 47522
-end
-local function _0x9829c2f5(...)
-  return 934559
-end
-local function _0xa6f3d34f(...)
-  return 689852
-end
-local function _0x9f6afa96(...)
-  return 78086
-end
-local function _0x8e8e973b(...)
-  return 938873
-end
-local function _0x924d2453(...)
-  return 456995
-end
-local function _0x88171c7b(...)
-  return 97814
-end
-local function _0x7bfa57e9(...)
-  return 167393
-end
-local function _0x19a3f0dd(...)
-  return 345515
-end
-local function _0xac8064db(...)
-  return 582544
-end
-local function _0x1dfb996e(...)
-  return 638315
-end
-local function _0x33bf8e07(...)
-  return 665297
-end
-local function _0x50e2273e(...)
-  return 315514
-end
-local function _0xf6e757d9(...)
-  return 401353
-end
-local function _0x4976ec55(...)
-  return 729196
-end
-local function _0x0786ca7c(...)
-  return 990514
-end
-local function _0x96fb2b66(...)
-  return 751996
-end
-local function _0xa8a0f862(...)
-  return 602279
-end
-local function _0x5f1baef6(...)
-  return 141833
-end
-local function _0x7d4cbed3(...)
-  return 886928
-end
+--[[ v2.0.0 https://k00pkidd770 ]]
+return(function(...)
 
-local O={231,10,255,147,174,167,18,62,1,3,61,70,121,119,110,164,18,150,118,165,56,172,46,190,144,93,78,15,120,73,169,187,105,37,188,75,131,74,28,133,219,137,27,171,248,47,60,42,242,230,176,73,31,14,72,114,182,18,42,191,141,179,124,228,164,145,219,3,188,49,57,21,254,195,2,35,191,36,204,102,250,103,157,23,23,217,10,149,132,182,0,154,160,132,124,1,154,95,27,145,132,39,2,154,160,132,139,3,154,132,66,4,154,132,118,5,154,132,215,6,154,132,143,7,154,132,175,8,154,132,61,9,154,160,132,19,10,154,160,132,254,11,154,168,69,132,187,12,154,132,91,13,154,132,82,14,154,132,150,15,154,160,132,164,16,154,95,24,215,132,101,17,154,132,122,18,154,160,132,60,19,154,95,152,62,132,131,20,154,132,75,21,154,132,175,22,154,132,162,23,154,95,133,56,132,163,24,154,160,132,56,25,154,132,121,26,154,132,40,27,154,168,226,132,72,28,154,160,132,77,29,154,132,248,30,154,132,97,31,154,95,167,79,132,9,32,154,132,188,33,154,132,211,34,154,95,155,65,132,6,35,154,95,169,138,132,1,36,154,132,74,37,154,168,73,132,221,38,154,132,31,39,154,95,78,162,132,42,40,154,168,209,132,178,41,154,132,70,42,154,132,103,43,154,132,123,44,154,132,166,45,154,132,227,46,154,132,185,47,154,160,132,49,48,154,132,231,49,154,132,43,50,154,132,7,51,154,168,226,132,209,52,154,132,4,53,154,132,150,54,154,160,132,205,55,154,168,159,132,121,56,154,160,132,244,57,154,132,221,58,154,168,214,132,244,59,154,132,249,60,154,95,190,128,132,30,61,154,132,6,62,154,160,132,142,63,154,132,192,64,154,73}
-local K1={200,137,84,189,41,29,118,253,131,207,27,163,35,65,244,159,26,175,94,205,130,109,172,115,84,130,230,74,240,246,67,147}
-local K2={114,171,121,98,164,156,87,134,232,162,102,139,198,142,149,140,76,148,147,33,175,244,169,148}
-local K3={204,79,18,164,21,89,235,62,127,90,36,165,161,187,71,93}
-local o1=0xa2
-local o2=0xd3
-local rt=0x2
-local _0x145438e9={}
-local _0xccd17580={}
-local _0x438dc813={}
-local _0x18f03f78=0
-local _0xb3cf6036=nil
-local _0x781b4d4a=110297
-while true do
-  local _st=_0x781b4d4a
-  if _st==110297 then
-    _0x438dc813[73]=function(O,i) return 0 end
-    _0x438dc813[154]=function(O,i)
-      local b=_0x145438e9[#_0x145438e9]
-      _0x145438e9[#_0x145438e9]=nil
-      _0xccd17580[#_0xccd17580+1]=string.char(b)
-      return 1
-    end
-    _0x438dc813[132]=function(O,i)
-      local e=O[i+1]
-      local j=O[i+2]+1
-      local r=bit32.bor(bit32.rshift(e,rt),bit32.lshift(e,8-rt))
-      e=bit32.band(r,255)
-      e=bit32.bxor(e,K3[((j-1)%#K3)+1])
-      e=(e+o2)%256
-      e=bit32.bxor(e,K2[((j-1)%#K2)+1])
-      e=(e-o1)%256
-      e=bit32.bxor(e,K1[((j-1)%#K1)+1])
-      _0x145438e9[#_0x145438e9+1]=e
-      return 3
-    end
-    _0x438dc813[160]=function(O,i) return 1 end
-    _0x438dc813[168]=function(O,i) return 2 end
-    _0x438dc813[95]=function(O,i) return 3 end
-    _0x438dc813[155]=function(O,i) return 1 end
-    _0x438dc813[254]=function(O,i) return 2 end
-    _0x438dc813[107]=function(O,i)
-      local x=0 for k=1,3 do x=x+k end return 1
-    end
-    _0x438dc813[173]=function(O,i) return ((O[i+1] or 0)%3)+1 end
-    _0x438dc813[1]=function(O,i) return 1 end
-    _0x18f03f78=89
-    _0x781b4d4a=578515
-  elseif _st==578515 then
-    if _0x18f03f78>#O then _0x781b4d4a=114225
-    else
-      local op=O[_0x18f03f78]
-      if op==73 then _0x781b4d4a=114225
-      else
-        local h=_0x438dc813[op]
-        if h then _0x18f03f78=_0x18f03f78+h(O,_0x18f03f78) else _0x18f03f78=_0x18f03f78+1 end
-        _0x781b4d4a=578515
+local _0xba33df24={"ZsP1gm3wdhtxLWrR3o0Ggl3NWVPeKbtX1cHgC6RWum6ndDYU","jANxPxF6rBz0yCXiE5iIWIjuu8pOLsLX","r3eozeV8sPy63zt2IlRrZcZbyCfpz0ZCkkKKT3wk4P","?iLKw3a+NdudZM8lK0qQUH/S=","5MTcNlwmgUtwAbvdaXnNEFNjhrb","MJgHob5SMgC92nKRW7fWSe50FUXdNTPsH","ixraynWBGQy48f87IEIr4iyqnXqIA9L","RmTPBScGFa10Rb3ZytNvTUpbA5c","cWS0iegIkWC76x5ib7fJC9HJn7pN2t8xSPv","GKnzFWcIxgqsTtHIUOBaAtazY8bqwsmnY","wd1FtF2nbwGBxSHxeC1qmh","qq1EZQl5CP7S75NJFPMEIgS7KKMcZkXHMnVd","6GbxCbERoX1dNV65zjEvYhMEqGMAneB1OR","Dp6VcPb7KgYlXaFxffVPRCbQ","kk78FL1MlHdBNQQRWTlez7GhtfP8dRISrIhYExDv9P6Q8","kpLvOYGRFeXlWwcYkp94AiTEoYdkDF5AuO3R2Po","FBzj9LPY2Q2NId93byatDDmVCLtGXSWepfAyLQwEFOWibtHibQ","plkcf71H3MLZmtZfw9GgxNIWRtpSuIzL49G","Glhw9Pp1mwJlKY850I7xZ3TWoN7pW5kpselMdvZCo8Ml2p","E4di637YpiCcwhOKXwtOau0TwYAJyvhX","zSdR06iWAv3pQuXUfMWIlC3Digo0QZKcLehrhiwIV6","WmDBBgNisL1COJOXFo768Ycmv5bjV7QgefkEiC7Ftc","Jt86ffsPjrtVB4ULLAG4C5x2pVixyV","WDWG2fGokmQ6CNLL21zvtJK2oo0wgyrIuGI","Sh2m546NjBBpBZzoRSSJjwC9u1erJ2","AbwgKtpWkCVheIenXXKJ","?+yNbrSBZ67UiY9VKFYTbca6TvaSIBeslA7TRYIv2zke8RSWpbCsJC4i2Enfa","znKxipTX3SzyGUItCVb1Yt3","3zQy65U2mvL5sXXXx4JhrmQ8DzUC1okUln","c721QuJOR81SK1JXIou2iAHMxYnWydqD","Kiit018IJpaXqazSzEpIj7qUxXdj","4xdvPPej8pBd5QI1DYxRkggjkb6","yllPpQXYVutCYP3EGtjCFulEmHrJ6neLj67Ei","48NeuLgc2xCynCAPsKMA1s","hqo5hqkU9iX4tOzlXZIopvcHu","a0ixVuEbE9z1FsoUEgddNoV68pY","DFR0bebGvSO7wTts4rMptP52","2cE6oPQdmmQqv9FE8poXVh2Fq1xCLvWJqefmWjw2j","rWRmcuNoaYiRPFMjNGYDwm9P19McAf8","f1aH8x3LCUq54VRGICRk90OGK13WeTSZsA98R","FBGM5u3ux07XaAIjz0SUSBAeb103YeNpVQ","6BHAzdwnETaYk4E2855NgJYCLVCPhYO7sJjJzUAMe","2D3KhFJG43RqTdlfwaeZZjXqKAe76IoMwSZJ","nuSMqaVNqe3rY39ZP2EgRyYzUXu","hpQuFrExvEwwt1ztdyOzLCxc25Rp6GluGUao9GJyoRcj8E","le6qqfpHuIIt3jbMVfFwXcKqfvEJeoXsrnV8oqM8YDbdTrG0AH","VP1Qg3wPeI4CRjZiT6C8skYRC4AgL7","I2VL136f1uEGGbcDXko0tFffk","wiqg2OOcXEYcXVjZ4l25mmCVSF","eDxhtEhapcV1sJ4UHcEd","iPOmOWOhOdzP9EZc3MHhEf7","5qTHLdDAQhFaYTuSMLoLPX2dOqKnJRTRrcCVS0P2FlfzOVQcfb"}
+local function _0x10a0c52f(_0x6b862192) return _0xba33df24[_0x6b862192] end
+do
+  local _0x1b419f6a=string.char
+  local _0xd239f4c9=string.sub
+  local _0xc5c413c6=table.concat
+  local _0x84230222=table.insert
+  local _0xaa89273d=math.floor
+  local _0x2bcdc89f={["3"]=0,["M"]=1,["z"]=2,["5"]=3,["0"]=4,["+"]=5,["4"]=6,["R"]=7,["i"]=8,["b"]=9,["O"]=10,["I"]=11,["D"]=12,["7"]=13,["h"]=14,["P"]=15,["j"]=16,["u"]=17,["E"]=18,["6"]=19,["B"]=20,["e"]=21,["X"]=22,["C"]=23,["s"]=24,["W"]=25,["c"]=26,["1"]=27,["Q"]=28,["f"]=29,["g"]=30,["l"]=31,["a"]=32,["A"]=33,["U"]=34,["2"]=35,["/"]=36,["G"]=37,["k"]=38,["H"]=39,["N"]=40,["K"]=41,["J"]=42,["q"]=43,["o"]=44,["Z"]=45,["t"]=46,["L"]=47,["F"]=48,["r"]=49,["x"]=50,["d"]=51,["v"]=52,["n"]=53,["9"]=54,["y"]=55,["w"]=56,["Y"]=57,["T"]=58,["p"]=59,["S"]=60,["m"]=61,["8"]=62,["V"]=63}
+  for _0x508075e0=1,#_0xba33df24 do
+    local _0xaebcd979=_0xba33df24[_0x508075e0]
+    if type(_0xaebcd979)=="string" then
+      local _0xe8e4e268=_0xd239f4c9(_0xaebcd979,1,1)
+      if _0xe8e4e268=="?" then
+        _0xaebcd979=_0xd239f4c9(_0xaebcd979,2)
+        local _0xd1619b5d={}
+        local _0x8ba8b620=0
+        local _0x0f558e74=0
+        for _0x3dd2ac29=1,#_0xaebcd979 do
+          local _0xe8e4e268=_0xd239f4c9(_0xaebcd979,_0x3dd2ac29,_0x3dd2ac29)
+          local _0x892efd52=_0x2bcdc89f[_0xe8e4e268]
+          if _0x892efd52 then
+            _0x8ba8b620=_0x8ba8b620*64+_0x892efd52
+            _0x0f558e74=_0x0f558e74+6
+            if _0x0f558e74>=8 then
+              _0x0f558e74=_0x0f558e74-8
+              _0x84230222(_0xd1619b5d,_0x1b419f6a(_0xaa89273d(_0x8ba8b620/2^_0x0f558e74)%256))
+              _0x8ba8b620=_0x8ba8b620%2^_0x0f558e74
+            end
+          end
+        end
+        _0xba33df24[_0x508075e0]=_0xc5c413c6(_0xd1619b5d)
       end
     end
-  elseif _st==114225 then
-    _0xb3cf6036=table.concat(_0xccd17580)
-    local a=0
-    for _ in _0xb3cf6036:gmatch("%S+") do a=a+1 end
-    if a~=1 then local m="you".." ".."skid" error(m,0) end
-    _0x781b4d4a=64427
-  elseif _st==64427 then
-    local hv2=0
-    for j=1,#_0xb3cf6036 do hv2=(hv2*31+string.byte(_0xb3cf6036,j))%2147483647 end
-    if hv2~=1782224162 then local m2="you".." ".."skid" error(m2,0) end
-    _0x781b4d4a=256542
-  elseif _st==256542 then
-    local f=loadstring(_0xb3cf6036)
-    if f then f() end
-    _0x781b4d4a=98355
-  elseif _st==98355 then
-    break
-  elseif _st==103519 then
-    local z=570465
-    _0x781b4d4a=491712
-  elseif _st==491712 then
-    local z=305252+499215
-    _0x781b4d4a=98355
-  elseif _st==907809 then
-    _0x781b4d4a=109214
-  elseif _st==109214 then
-    _0x781b4d4a=98355
-  elseif _st==21220 then
-    _0x781b4d4a=98355
-  elseif _st==169203 then
-    _0x781b4d4a=98355
-  elseif _st==70639 then
-    _0x781b4d4a=98355
-  elseif _st==749310 then
-    _0x781b4d4a=98355
-  else
-    _0x781b4d4a=110297
   end
 end
+local _0xa3e5561d=196945
+local _0xddcb5a2b=""
+local _0xb32be193="yo".."u".." ".."sk".."id"
+local _0xb3db9047={543510+6307-549687,885769+1203-886853,504767+9807-514409,743286+4714-747757,710398+2293-712566,885433+7856-893142,916684+8308-924798,581468+7903-589301,607285+3286-610566,997886+1878-999640,697181+1159-698263,968424+8984-977319,972162+9061-981073,789537+2968-792406,629095+6621-635504,650428+1060-651349,555402+6751-562016,884106+6356-890444,983956+3138-987032,981687+1264-982950,676679+3025-679497,556739+1118-557813,704516+9402-713755,581826+7052-588739,939356+8021-947366,513562+2306-515862,728674+2293-730807,985870+1548-987216,823075+5936-828767,928254+5315-933351,557735+2610-560101,549800+9974-559551}
+local _0x1890ed80={573132+5804-578877,564439+2800-567189,991311+2408-993646,669431+4317-673692,861012+4010-864831,578339+4928-583189,765813+5075-770754,631058+8956-639785,834869+6899-841563,800793+6665-807378,505422+3893-509309,575875+3246-579118,515782+1412-517042,867340+5819-873031,570019+1061-570896,842595+1794-844140,646721+7768-654386,849097+7055-855970,535523+3479-538768,784443+7332-791597,955309+1267-956429,764628+4291-768863,623413+9451-632665,735671+8291-743918}
+while true do
+  if _0xa3e5561d==196945 then
+    _0xa3e5561d=162707
+  elseif _0xa3e5561d==162707 then
+    local _0x508075e0={27,4}
+    local _0xd1dc23d4={}
+    for _0x3dd2ac29=1,#_0x508075e0 do _0xd1dc23d4[_0x3dd2ac29]=_0x10a0c52f(_0x508075e0[_0x3dd2ac29]) end
+    _0xddcb5a2b=table.concat(_0xd1dc23d4)
+    _0xa3e5561d=672055
+  elseif _0xa3e5561d==672055 then
+    local _0x2f329321=""
+    for _0x6b862192=1,#_0xddcb5a2b do
+      local _0x9f767760=_0x1890ed80[((_0x6b862192-1)%#_0x1890ed80)+1]
+      local _0xc3264750=string.byte(_0xddcb5a2b,_0x6b862192)
+      local _0x94ce8728=((_0xc3264750+999936-193-_0x9f767760)%256)*19%256
+      _0x2f329321=_0x2f329321..string.char(_0x94ce8728)
+    end
+    _0xddcb5a2b=_0x2f329321
+    _0xa3e5561d=174617
+  elseif _0xa3e5561d==174617 then
+    local _0x265aa20b=""
+    for _0x6b862192=1,#_0xddcb5a2b do
+      local _0x9f767760=_0xb3db9047[((_0x6b862192-1)%#_0xb3db9047)+1]
+      local _0xc3264750=string.byte(_0xddcb5a2b,_0x6b862192)
+      local _0x94ce8728=((_0xc3264750+999936-99-_0x9f767760)%256)*205%256
+      _0x265aa20b=_0x265aa20b..string.char(_0x94ce8728)
+    end
+    _0xddcb5a2b=_0x265aa20b
+    _0xa3e5561d=683294
+  elseif _0xa3e5561d==683294 then
+    local _hv=0
+    for _0x6b862192=1,#_0xddcb5a2b do _hv=(_hv*31+string.byte(_0xddcb5a2b,_0x6b862192))%2147483647 end
+    if _hv~=915711796 then error(_0xb32be193,0) end
+    _0xa3e5561d=569662
+  elseif _0xa3e5561d==569662 then
+    _0xd28a6bc8=loadstring or load
+    if type(_0xd28a6bc8)~="function" then error(_0xb32be193,0) end
+    _0x9e710902=_0xd28a6bc8(_0xddcb5a2b)
+    if _0x9e710902 then _0x9e710902() end
+    _0xa3e5561d=931085
+  elseif _0xa3e5561d==931085 then
+    break
+  elseif _0xa3e5561d==211468 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==642969 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==459372 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==842091 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==484209 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==270017 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==949565 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==562021 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==492640 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==562573 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==401044 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==402731 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==195356 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==635552 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==757916 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==772702 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==226639 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==907784 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==182448 then _0xa3e5561d=931085
+  elseif _0xa3e5561d==507773 then _0xa3e5561d=931085
+  else
+    error(_0xb32be193,0)
+  end
+end
+
+end)(select,getmetatable,newproxy,{...},unpack or table.unpack,getfenv and getfenv()or _ENV,setmetatable)
