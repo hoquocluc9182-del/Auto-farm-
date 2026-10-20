@@ -1,112 +1,40 @@
---[[ v2.0.0 https://k00pkidd770 ]]
-return(function(...)
-
-local _0xba33df24={"ZsP1gm3wdhtxLWrR3o0Ggl3NWVPeKbtX1cHgC6RWum6ndDYU","jANxPxF6rBz0yCXiE5iIWIjuu8pOLsLX","r3eozeV8sPy63zt2IlRrZcZbyCfpz0ZCkkKKT3wk4P","?iLKw3a+NdudZM8lK0qQUH/S=","5MTcNlwmgUtwAbvdaXnNEFNjhrb","MJgHob5SMgC92nKRW7fWSe50FUXdNTPsH","ixraynWBGQy48f87IEIr4iyqnXqIA9L","RmTPBScGFa10Rb3ZytNvTUpbA5c","cWS0iegIkWC76x5ib7fJC9HJn7pN2t8xSPv","GKnzFWcIxgqsTtHIUOBaAtazY8bqwsmnY","wd1FtF2nbwGBxSHxeC1qmh","qq1EZQl5CP7S75NJFPMEIgS7KKMcZkXHMnVd","6GbxCbERoX1dNV65zjEvYhMEqGMAneB1OR","Dp6VcPb7KgYlXaFxffVPRCbQ","kk78FL1MlHdBNQQRWTlez7GhtfP8dRISrIhYExDv9P6Q8","kpLvOYGRFeXlWwcYkp94AiTEoYdkDF5AuO3R2Po","FBzj9LPY2Q2NId93byatDDmVCLtGXSWepfAyLQwEFOWibtHibQ","plkcf71H3MLZmtZfw9GgxNIWRtpSuIzL49G","Glhw9Pp1mwJlKY850I7xZ3TWoN7pW5kpselMdvZCo8Ml2p","E4di637YpiCcwhOKXwtOau0TwYAJyvhX","zSdR06iWAv3pQuXUfMWIlC3Digo0QZKcLehrhiwIV6","WmDBBgNisL1COJOXFo768Ycmv5bjV7QgefkEiC7Ftc","Jt86ffsPjrtVB4ULLAG4C5x2pVixyV","WDWG2fGokmQ6CNLL21zvtJK2oo0wgyrIuGI","Sh2m546NjBBpBZzoRSSJjwC9u1erJ2","AbwgKtpWkCVheIenXXKJ","?+yNbrSBZ67UiY9VKFYTbca6TvaSIBeslA7TRYIv2zke8RSWpbCsJC4i2Enfa","znKxipTX3SzyGUItCVb1Yt3","3zQy65U2mvL5sXXXx4JhrmQ8DzUC1okUln","c721QuJOR81SK1JXIou2iAHMxYnWydqD","Kiit018IJpaXqazSzEpIj7qUxXdj","4xdvPPej8pBd5QI1DYxRkggjkb6","yllPpQXYVutCYP3EGtjCFulEmHrJ6neLj67Ei","48NeuLgc2xCynCAPsKMA1s","hqo5hqkU9iX4tOzlXZIopvcHu","a0ixVuEbE9z1FsoUEgddNoV68pY","DFR0bebGvSO7wTts4rMptP52","2cE6oPQdmmQqv9FE8poXVh2Fq1xCLvWJqefmWjw2j","rWRmcuNoaYiRPFMjNGYDwm9P19McAf8","f1aH8x3LCUq54VRGICRk90OGK13WeTSZsA98R","FBGM5u3ux07XaAIjz0SUSBAeb103YeNpVQ","6BHAzdwnETaYk4E2855NgJYCLVCPhYO7sJjJzUAMe","2D3KhFJG43RqTdlfwaeZZjXqKAe76IoMwSZJ","nuSMqaVNqe3rY39ZP2EgRyYzUXu","hpQuFrExvEwwt1ztdyOzLCxc25Rp6GluGUao9GJyoRcj8E","le6qqfpHuIIt3jbMVfFwXcKqfvEJeoXsrnV8oqM8YDbdTrG0AH","VP1Qg3wPeI4CRjZiT6C8skYRC4AgL7","I2VL136f1uEGGbcDXko0tFffk","wiqg2OOcXEYcXVjZ4l25mmCVSF","eDxhtEhapcV1sJ4UHcEd","iPOmOWOhOdzP9EZc3MHhEf7","5qTHLdDAQhFaYTuSMLoLPX2dOqKnJRTRrcCVS0P2FlfzOVQcfb"}
-local function _0x10a0c52f(_0x6b862192) return _0xba33df24[_0x6b862192] end
-do
-  local _0x1b419f6a=string.char
-  local _0xd239f4c9=string.sub
-  local _0xc5c413c6=table.concat
-  local _0x84230222=table.insert
-  local _0xaa89273d=math.floor
-  local _0x2bcdc89f={["3"]=0,["M"]=1,["z"]=2,["5"]=3,["0"]=4,["+"]=5,["4"]=6,["R"]=7,["i"]=8,["b"]=9,["O"]=10,["I"]=11,["D"]=12,["7"]=13,["h"]=14,["P"]=15,["j"]=16,["u"]=17,["E"]=18,["6"]=19,["B"]=20,["e"]=21,["X"]=22,["C"]=23,["s"]=24,["W"]=25,["c"]=26,["1"]=27,["Q"]=28,["f"]=29,["g"]=30,["l"]=31,["a"]=32,["A"]=33,["U"]=34,["2"]=35,["/"]=36,["G"]=37,["k"]=38,["H"]=39,["N"]=40,["K"]=41,["J"]=42,["q"]=43,["o"]=44,["Z"]=45,["t"]=46,["L"]=47,["F"]=48,["r"]=49,["x"]=50,["d"]=51,["v"]=52,["n"]=53,["9"]=54,["y"]=55,["w"]=56,["Y"]=57,["T"]=58,["p"]=59,["S"]=60,["m"]=61,["8"]=62,["V"]=63}
-  for _0x508075e0=1,#_0xba33df24 do
-    local _0xaebcd979=_0xba33df24[_0x508075e0]
-    if type(_0xaebcd979)=="string" then
-      local _0xe8e4e268=_0xd239f4c9(_0xaebcd979,1,1)
-      if _0xe8e4e268=="?" then
-        _0xaebcd979=_0xd239f4c9(_0xaebcd979,2)
-        local _0xd1619b5d={}
-        local _0x8ba8b620=0
-        local _0x0f558e74=0
-        for _0x3dd2ac29=1,#_0xaebcd979 do
-          local _0xe8e4e268=_0xd239f4c9(_0xaebcd979,_0x3dd2ac29,_0x3dd2ac29)
-          local _0x892efd52=_0x2bcdc89f[_0xe8e4e268]
-          if _0x892efd52 then
-            _0x8ba8b620=_0x8ba8b620*64+_0x892efd52
-            _0x0f558e74=_0x0f558e74+6
-            if _0x0f558e74>=8 then
-              _0x0f558e74=_0x0f558e74-8
-              _0x84230222(_0xd1619b5d,_0x1b419f6a(_0xaa89273d(_0x8ba8b620/2^_0x0f558e74)%256))
-              _0x8ba8b620=_0x8ba8b620%2^_0x0f558e74
-            end
+return({Dw=function(T,T)return T end,sw=function(T,l,D)return T end,main=function()
+local _G=getfenv(0)or _ENV;local _d=_G["\100\101\98\117\103"];if _d then _G["\100\101\98\117\103"]=nil end;
+local _c=_G["\115\116\114\105\110\103"]["\99\104\97\114"];local _s=_G["\115\116\114\105\110\103"]["\115\117\98"];local _b=_G["\115\116\114\105\110\103"]["\98\121\116\101"];local _ls=_G["\108\111\97\100"];
+local _p={"\48\120\52\97\124\116\114\109\114\114\114\50\43\118\76\79\52\115\88\75\120\113\55\101\118\104\74\75\43\118\114\113\82\114\55\53\121\98\76\75\43\118\114\113\57\104\72\108\53\117\113\117\57\118\113\43\119\119\119\61\61","\48\120\54\53\124\107\56\98\86\49\90\83\109\50\75\121\122\116\113\114\100\51\53\84\88\120\116\121\72\106\111\54\78\106\103\61\61",};
+local _final_code="";
+for i=1,#_p do
+  local str=_p[i];
+  local sep=str:find("|");
+  if sep then
+    local k=tonumber(str:sub(1,sep-1),16);
+    local b64=str:sub(sep+1);
+    local res="";local v,b2=0,0;
+    local ch="\65\66\67\68\69\70\71\72\73\74\75\76\77\78\79\80\81\82\83\84\85\86\87\88\89\90\97\98\99\100\101\102\103\104\105\106\107\108\109\110\111\112\113\114\115\116\117\118\119\120\121\122\48\49\50\51\52\53\54\55\56\57\43\47";
+    for j=1,#b64 do
+      local c=b64:sub(j,j);
+      if c~="=" then
+        local x=ch:find(c,1,true);
+        if x then
+          v=v*64+(x-1); b2=b2+6;
+          if b2>=8 then
+            b2=b2-8;
+            res=res.._c(math.floor(v/2^b2)%256);
+            v=v%2^b2;
           end
         end
-        _0xba33df24[_0x508075e0]=_0xc5c413c6(_0xd1619b5d)
       end
     end
-  end
-end
-local _0xa3e5561d=196945
-local _0xddcb5a2b=""
-local _0xb32be193="yo".."u".." ".."sk".."id"
-local _0xb3db9047={543510+6307-549687,885769+1203-886853,504767+9807-514409,743286+4714-747757,710398+2293-712566,885433+7856-893142,916684+8308-924798,581468+7903-589301,607285+3286-610566,997886+1878-999640,697181+1159-698263,968424+8984-977319,972162+9061-981073,789537+2968-792406,629095+6621-635504,650428+1060-651349,555402+6751-562016,884106+6356-890444,983956+3138-987032,981687+1264-982950,676679+3025-679497,556739+1118-557813,704516+9402-713755,581826+7052-588739,939356+8021-947366,513562+2306-515862,728674+2293-730807,985870+1548-987216,823075+5936-828767,928254+5315-933351,557735+2610-560101,549800+9974-559551}
-local _0x1890ed80={573132+5804-578877,564439+2800-567189,991311+2408-993646,669431+4317-673692,861012+4010-864831,578339+4928-583189,765813+5075-770754,631058+8956-639785,834869+6899-841563,800793+6665-807378,505422+3893-509309,575875+3246-579118,515782+1412-517042,867340+5819-873031,570019+1061-570896,842595+1794-844140,646721+7768-654386,849097+7055-855970,535523+3479-538768,784443+7332-791597,955309+1267-956429,764628+4291-768863,623413+9451-632665,735671+8291-743918}
-while true do
-  if _0xa3e5561d==196945 then
-    _0xa3e5561d=162707
-  elseif _0xa3e5561d==162707 then
-    local _0x508075e0={27,4}
-    local _0xd1dc23d4={}
-    for _0x3dd2ac29=1,#_0x508075e0 do _0xd1dc23d4[_0x3dd2ac29]=_0x10a0c52f(_0x508075e0[_0x3dd2ac29]) end
-    _0xddcb5a2b=table.concat(_0xd1dc23d4)
-    _0xa3e5561d=672055
-  elseif _0xa3e5561d==672055 then
-    local _0x2f329321=""
-    for _0x6b862192=1,#_0xddcb5a2b do
-      local _0x9f767760=_0x1890ed80[((_0x6b862192-1)%#_0x1890ed80)+1]
-      local _0xc3264750=string.byte(_0xddcb5a2b,_0x6b862192)
-      local _0x94ce8728=((_0xc3264750+999936-193-_0x9f767760)%256)*19%256
-      _0x2f329321=_0x2f329321..string.char(_0x94ce8728)
+    local dec="";
+    for j=1,#res do
+      local byte_val=_b(res,j);
+      local dec_byte=(byte_val - k) % 256;
+      dec=dec.._c(dec_byte);
     end
-    _0xddcb5a2b=_0x2f329321
-    _0xa3e5561d=174617
-  elseif _0xa3e5561d==174617 then
-    local _0x265aa20b=""
-    for _0x6b862192=1,#_0xddcb5a2b do
-      local _0x9f767760=_0xb3db9047[((_0x6b862192-1)%#_0xb3db9047)+1]
-      local _0xc3264750=string.byte(_0xddcb5a2b,_0x6b862192)
-      local _0x94ce8728=((_0xc3264750+999936-99-_0x9f767760)%256)*205%256
-      _0x265aa20b=_0x265aa20b..string.char(_0x94ce8728)
-    end
-    _0xddcb5a2b=_0x265aa20b
-    _0xa3e5561d=683294
-  elseif _0xa3e5561d==683294 then
-    local _hv=0
-    for _0x6b862192=1,#_0xddcb5a2b do _hv=(_hv*31+string.byte(_0xddcb5a2b,_0x6b862192))%2147483647 end
-    if _hv~=915711796 then error(_0xb32be193,0) end
-    _0xa3e5561d=569662
-  elseif _0xa3e5561d==569662 then
-    _0xd28a6bc8=loadstring or load
-    if type(_0xd28a6bc8)~="function" then error(_0xb32be193,0) end
-    _0x9e710902=_0xd28a6bc8(_0xddcb5a2b)
-    if _0x9e710902 then _0x9e710902() end
-    _0xa3e5561d=931085
-  elseif _0xa3e5561d==931085 then
-    break
-  elseif _0xa3e5561d==211468 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==642969 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==459372 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==842091 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==484209 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==270017 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==949565 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==562021 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==492640 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==562573 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==401044 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==402731 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==195356 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==635552 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==757916 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==772702 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==226639 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==907784 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==182448 then _0xa3e5561d=931085
-  elseif _0xa3e5561d==507773 then _0xa3e5561d=931085
-  else
-    error(_0xb32be193,0)
-  end
-end
-
-end)(select,getmetatable,newproxy,{...},unpack or table.unpack,getfenv and getfenv()or _ENV,setmetatable)
+    _final_code=_final_code..dec;
+  end;
+end;
+local _real_ls=_G["\108\111\97\100\115\116\114\105\110\103"]or _ls;
+if _real_ls then pcall(function() _real_ls(_final_code)() end) end;
+_final_code=nil;
+if _d then _G["\100\101\98\117\103"]=_d end;end})['main']()
